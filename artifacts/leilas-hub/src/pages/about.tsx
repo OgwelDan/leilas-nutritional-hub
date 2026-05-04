@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Award, Target, Users, BookOpen } from "lucide-react";
+import { Award, Target, Users, BookOpen, HeartPulse, Activity } from "lucide-react";
 
 export function About() {
   return (
