@@ -56,7 +56,7 @@ export function Home() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl md:text-3xl font-medium tracking-wide text-accent"
           >
-            Fuel Your Performance • Transform Your Life
+            Monito Your Performance • Transform Your Life
           </motion.p>
           <motion.p 
             initial={{ opacity: 0 }}
@@ -218,21 +218,21 @@ export function Home() {
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-card rounded-2xl overflow-hidden border border-border shadow-sm">
-              <div className="h-48 bg-[url('https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop')] bg-cover bg-center"></div>
+              <div className="h-48 bg-[url('/oats.png')] bg-cover bg-center"></div>
               <div className="p-6">
                 <div className="text-accent font-bold text-sm tracking-widest uppercase mb-2">Breakfast</div>
                 <h4 className="font-serif font-bold text-xl">Oats with Fruits & Eggs</h4>
               </div>
             </div>
             <div className="bg-card rounded-2xl overflow-hidden border border-border shadow-sm">
-              <div className="h-48 bg-[url('https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=2080&auto=format&fit=crop')] bg-cover bg-center"></div>
+              <div className="h-48 bg-[url('/fish.png')] bg-cover bg-center"></div>
               <div className="p-6">
                 <div className="text-accent font-bold text-sm tracking-widest uppercase mb-2">Lunch</div>
                 <h4 className="font-serif font-bold text-xl">Rice/Ugali & Grilled Fish</h4>
               </div>
             </div>
             <div className="bg-card rounded-2xl overflow-hidden border border-border shadow-sm">
-              <div className="h-48 bg-[url('https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=1913&auto=format&fit=crop')] bg-cover bg-center"></div>
+              <div className="h-48 bg-[url('/chicken.png')] bg-cover bg-center"></div>
               <div className="p-6">
                 <div className="text-accent font-bold text-sm tracking-widest uppercase mb-2">Dinner</div>
                 <h4 className="font-serif font-bold text-xl">Chicken, Veggies & Sweet Potato</h4>

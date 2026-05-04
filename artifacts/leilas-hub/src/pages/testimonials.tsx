@@ -11,40 +11,40 @@ import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 
 const TESTIMONIALS = [
   {
-    name: "Brian Ochieng",
-    role: "Rugby Player (Kenya Harlequins)",
+    name: "Teddy Agutu",
+    role: "Seasoned Kenyan Rugby Player",
     quote: "Before working with Maryleila, I was training hard but not recovering well. She redesigned my entire nutrition approach around match days and training loads. Within 8 weeks, my stamina improved noticeably and muscle soreness reduced dramatically. I now eat with intention, not guesswork.",
-    initials: "BO"
+    initials: "TA"
   },
   {
-    name: "Grace Wambui",
+    name: "Wendy",
     role: "New Mother",
     quote: "Pregnancy changed everything about how I eat. Maryleila put together a postpartum plan that supported my milk production while helping me recover my strength. She understood the emotional side too — never made me feel rushed or pressured. Truly personalized care.",
-    initials: "GW"
+    initials: "W"
   },
   {
-    name: "Kevin Muriuki",
+    name: "Hellen Maksh",
     role: "Gym Enthusiast",
     quote: "I had been stuck at the same weight for months despite training five days a week. Maryleila identified gaps in my protein timing and carb cycling strategy. Within 6 weeks, I lost 4kg of fat and gained visible muscle definition. The science behind every decision she makes is what impressed me most.",
-    initials: "KM"
+    initials: "HM"
   },
   {
-    name: "Fatuma Atieno",
-    role: "Diabetic Patient",
+    name: "Velma Atieno",
+    role: "Diabetic Conditions",
     quote: "Managing Type 2 diabetes through food felt overwhelming until I found Leila's Nutritional Hub. Maryleila created a realistic, culturally relevant meal plan using Kenyan foods I actually enjoy. My blood sugar readings have been consistently within range for three months now.",
-    initials: "FA"
+    initials: "VA"
   },
   {
-    name: "David Kamau",
-    role: "Personal Trainer, Nairobi",
+    name: "Crispin Onyango",
+    role: "Professional Personal Trainer, KK Fettle - Nairobi",
     quote: "As a PT, I needed someone who could provide reliable nutrition guidance for my clients. Maryleila has become my go-to partner. She is meticulous, responsive, and always backs her recommendations with research. My clients have seen better results because of her involvement.",
-    initials: "DK"
+    initials: "CO"
   },
   {
-    name: "Amina Hassan",
+    name: "Sharon Lanyo",
     role: "Corporate Professional",
     quote: "I signed up for the weight management program after years of yo-yo dieting. What makes Leila's Nutritional Hub different is the accountability and the fact that the plan actually fits into a busy work schedule. No fad diets — just practical, sustainable nutrition.",
-    initials: "AH"
+    initials: "SL"
   }
 ];
 

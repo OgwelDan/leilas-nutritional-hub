@@ -70,7 +70,7 @@ export function Book() {
         <div className="text-center mb-12">
           <h1 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-4">Book a Session</h1>
           <p className="text-lg text-muted-foreground max-w-xl mx-auto">
-            Schedule your 1-on-1 session with Maryleila Aluoch. Get personalized guidance tailored to your body's unique needs.
+            Schedule your 1-on-1 session with your Nutritionist. Get personalized guidance tailored to your body's unique needs.
           </p>
         </div>
 

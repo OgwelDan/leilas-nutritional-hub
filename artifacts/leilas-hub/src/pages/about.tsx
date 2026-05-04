@@ -25,7 +25,7 @@ export function About() {
               <h2 className="font-serif text-3xl md:text-4xl font-bold text-foreground mb-6">Our Story</h2>
               <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
                 <p>
-                  Maryleila Aluoch founded Leila's Nutritional Hub after witnessing firsthand how poor nutritional choices were holding back Kenya's athletes, patients, and everyday individuals from reaching their true potential.
+                  Maryleila Aluoch, a Certified Nutritionist, founded Leila's Nutritional Hub in 2020 after witnessing firsthand how poor nutritional choices were holding back Kenya's athletes, patients, and everyday individuals from reaching their true potential. However, this period coincided with the COVID-19 pandemic, which disrupted operations, especially for startups.
                 </p>
                 <p>
                   With a certification from the Kenya Nutritionists & Dieticians Institute (KNDI) and years of hands-on experience spanning sports nutrition, medical dietary management, and community wellness programs, Maryleila has built a practice grounded in evidence, empathy, and exceptional results.
@@ -39,7 +39,7 @@ export function About() {
               <div className="aspect-[4/5] rounded-3xl overflow-hidden bg-muted">
                 {/* Placeholder for Maryleila's photo */}
                 <div className="w-full h-full bg-secondary/20 flex items-center justify-center relative">
-                  <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center"></div>
+                  <div className="w-full h-full bg-[url('/dpp.jpg')] bg-cover bg-center"></div>
                 </div>
               </div>
               <div className="absolute -bottom-8 -left-8 bg-card p-6 rounded-2xl shadow-xl border border-border max-w-xs">
@@ -49,7 +49,7 @@ export function About() {
                   </div>
                   <div>
                     <div className="font-bold text-foreground">KNDI Certified</div>
-                    <div className="text-sm text-muted-foreground">Licensed Professional</div>
+                    <div className="text-sm text-muted-foreground">Licensed Nutritionist</div>
                   </div>
                 </div>
               </div>

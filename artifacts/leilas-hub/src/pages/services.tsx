@@ -27,7 +27,7 @@ const SERVICES = [
     id: "counselling",
     title: "Nutrition Counselling",
     icon: HeartPulse,
-    description: "1-on-1 expert coaching sessions with Maryleila Aluoch.",
+    description: "1-on-1 expert coaching sessions with your Certified Nutritionist.",
     benefits: ["Dietary assessment", "Habit change strategies", "Evidence-based guidance", "Ongoing accountability"],
     color: "bg-purple-500/10 text-purple-600",
     border: "border-purple-500/20"
